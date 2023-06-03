@@ -1,10 +1,10 @@
 const mysql = require('mysql');
 
 const dbInfo = {
-    host     : 'localhost',
-    port     : '3308',
-    user     : 'root',
-    password : 'Hoseo12345^',
+    host     : '13.124.255.146',
+    port     : '3306',
+    user     : 'gywls',
+    password : 'Gywls1234!',
     database : 'project01',
     socketPath:'/run/mysqld/mysqld.sock'
 };
